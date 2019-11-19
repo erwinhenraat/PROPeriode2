@@ -1,0 +1,11 @@
+C:\data\gitHub\PROPeriode2\bin\Debug\netcoreapp2.2\PROPeriode2.deps.json
+C:\data\gitHub\PROPeriode2\bin\Debug\netcoreapp2.2\PROPeriode2.runtimeconfig.json
+C:\data\gitHub\PROPeriode2\bin\Debug\netcoreapp2.2\PROPeriode2.runtimeconfig.dev.json
+C:\data\gitHub\PROPeriode2\bin\Debug\netcoreapp2.2\PROPeriode2.dll
+C:\data\gitHub\PROPeriode2\bin\Debug\netcoreapp2.2\PROPeriode2.pdb
+C:\data\gitHub\PROPeriode2\obj\Debug\netcoreapp2.2\PROPeriode2.csprojAssemblyReference.cache
+C:\data\gitHub\PROPeriode2\obj\Debug\netcoreapp2.2\PROPeriode2.csproj.CoreCompileInputs.cache
+C:\data\gitHub\PROPeriode2\obj\Debug\netcoreapp2.2\PROPeriode2.AssemblyInfoInputs.cache
+C:\data\gitHub\PROPeriode2\obj\Debug\netcoreapp2.2\PROPeriode2.AssemblyInfo.cs
+C:\data\gitHub\PROPeriode2\obj\Debug\netcoreapp2.2\PROPeriode2.dll
+C:\data\gitHub\PROPeriode2\obj\Debug\netcoreapp2.2\PROPeriode2.pdb
